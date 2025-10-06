@@ -32,7 +32,7 @@
 ---
 
 ### 📫 Contact
-📧 [tanatorn.nge@rmutto.ac.th](mailto:tanatorn.nge@rmutto.ac.th)  
+📧 [Tanatorn.nge2001@gmail.com](mailto:Tanatorn.nge2001@gmail.com)  
 📱 099-150-4805  
 🌍 ปทุมธานี ประเทศไทย  
 💼 [GitHub: tanatorn0](https://github.com/tanatorn0)
