@@ -23,6 +23,19 @@
 
 ---
 
+### 📘 Projects Showcase
+
+#### 🧩 Data Pipeline Architecture  
+![Data Pipeline Architecture](https://github.com/tanatorn0/tanatorn0/blob/main/Data%20Pipeline%20Architecture.drawio.png)
+
+#### 🗂️ ER Diagram  
+![ER Diagram](https://github.com/tanatorn0/tanatorn0/blob/main/ER%20Diagram.drawio.png)
+
+#### 🧶 ระบบ THAI SILK  
+![ระบบ THAI SILK](https://github.com/tanatorn0/tanatorn0/blob/main/ระบบ%20THAI%20SILK.drawio.png)
+
+---
+
 ### 📊 GitHub Stats
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=tanatorn0&show_icons=true&theme=blue_navy" />
